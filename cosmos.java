@@ -9,7 +9,10 @@ public class cosmos {
             System.out.print(i + " ");
         }
         System.out.println("yeni gönderdim");
+
         System.out.println("son değişiklik");
+
+
 
     }
 }
