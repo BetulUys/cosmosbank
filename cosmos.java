@@ -10,5 +10,9 @@ public class cosmos {
         }
         System.out.println("yeni gönderdim");
 
+        System.out.println("son değişiklik");
+
+
+
     }
 }
