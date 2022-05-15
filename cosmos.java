@@ -3,5 +3,9 @@ public class cosmos {
         System.out.println("cosmos");
         System.out.println("fatih");
         System.out.println("deneme samet");
+        System.out.println("fatih");
+        System.out.println("fatih");
+        System.out.println("fatih");
+        System.out.println("fatih");
     }
 }
