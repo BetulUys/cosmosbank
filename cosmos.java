@@ -12,6 +12,8 @@ public class cosmos {
 
         System.out.println("son değişiklik");
 
+        System.out.println("fikret");
+
 
 
     }
